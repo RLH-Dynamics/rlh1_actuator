@@ -37,7 +37,7 @@ Project brain seeded on GitHub (README, STATUS, folder skeleton). Empty-repo blo
 
 ## Org
 - **GitHub** (canonical): https://github.com/RLH-Dynamics/rlh1_actuator
-- **Notion** (readable front door): TBD — plugin not connected yet
+- **Notion** (readable front door): https://app.notion.com/p/3eb753ce582a818abeacdc04d229f654
 - **Claude Code**: primary design/intellectual work
 - **Actuator Lab**: living status, decisions, coordination
 
@@ -47,4 +47,4 @@ Project brain seeded on GitHub (README, STATUS, folder skeleton). Empty-repo blo
 3. Target continuous/peak torque and speed (still open)?
 
 ---
-*Last updated: 2026-09-30 — project-brain seed (empty repo → README, STATUS, folder skeleton).*
+*Last updated: 2026-09-30 — Notion front door linked. Prior: project-brain seed (empty repo → README, STATUS, folder skeleton).*

@@ -25,4 +25,4 @@ Living status, open questions, and next steps: [STATUS.md](STATUS.md).
 | `simulation/` | FEA, motor, and control simulations |
 | `tools/` | Scripts and helpers |
 
-GitHub is the canonical home. A readable Notion front door may be added later.
+GitHub is the canonical home. Notion front door: https://app.notion.com/p/3eb753ce582a818abeacdc04d229f654
